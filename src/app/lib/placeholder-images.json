@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-student",
+      "description": "A close-up vertical photograph of a white notebook page. The page is bright and clean, taking up the lower two-thirds of the frame. It features three lines of left-aligned text with slight size progression: 'Create like an artist.' (light), 'Solve like an engineer.' (bold), and 'Act like an entrepreneur.' (italic, largest). The background is a shallow-depth-of-field blur showing a dark desk surface and the out-of-focus shape of a smartphone. The lighting is bright, minimal, and professional.",
+      "imageUrl": "https://picsum.photos/seed/career-notebook-v3/800/1200",
+      "imageHint": "minimalist notebook"
+    },
+    {
+      "id": "feature-quiz",
+      "description": "Icon or image representing an adaptive quiz",
+      "imageUrl": "https://picsum.photos/seed/quiz-feature/400/300",
+      "imageHint": "intelligence quiz"
+    },
+    {
+      "id": "feature-roadmap",
+      "description": "A visual representation of a career roadmap",
+      "imageUrl": "https://picsum.photos/seed/roadmap-feature/400/300",
+      "imageHint": "roadmap success"
+    },
+    {
+      "id": "feature-compare",
+      "description": "Comparison of two professional paths",
+      "imageUrl": "https://picsum.photos/seed/compare-feature/400/300",
+      "imageHint": "comparison analytics"
+    }
+  ]
+}
