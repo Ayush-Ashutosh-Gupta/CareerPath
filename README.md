@@ -1,4 +1,4 @@
-\# CareerPath
+# CareerPath
 
 
 
@@ -6,19 +6,19 @@ CareerPath is a student guidance tool designed to help users explore career opti
 
 
 
-\## Features
+## Features
 
 
 
-\- Career and exam exploration
+- Career and exam exploration
 
-\- Comparison-oriented layout
+- Comparison-oriented layout
 
-\- Student-focused planning utilities
+- Student-focused planning utilities
 
 
 
-\## Purpose
+## Purpose
 
 
 
@@ -26,7 +26,7 @@ A practical helper for students making academic and career decisions.
 
 
 
-\## License
+## License
 
 
 
